@@ -93,3 +93,6 @@ How to prevent it:---->
 3.Use Promises instead of many nested callbacks.
 
 4.Use async/await for cleaner async code.
+
+// EXAMPLE:
+the first example of this file is a callback hell.
